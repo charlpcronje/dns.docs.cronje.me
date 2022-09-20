@@ -2,7 +2,7 @@ input: src
 output: public
 url: http://dns.docs.cronje.me
 branding:
-  title: DNS Settings, MX Records, CName, etc  | CRONje.ME
+  title: CRONje.ME | DNS Settings, MX Records, CName's etc
   label: DNS
 links:
 - text: Dashboard
